@@ -1,6 +1,7 @@
+
 <p align="center">
   <img 
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,100:F3EAD7&height=260&section=header&text=Hey%20I'm%20Janhavi%20—%20Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=5A5444&animation=fadeIn&fontAlignY=38"
+       src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=260&section=header&text=Hey%20I'm%20Janhavi%20—%20Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38"
        alt="header image"
        style="pointer-events: none;"
   />
