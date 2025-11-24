@@ -1,3 +1,14 @@
+<p align="center">
+  <img 
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF7,100:F3EAD7&height=260&section=header&text=Hey%20I'm%20Janhavi%20—%20Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=5A5444&animation=fadeIn&fontAlignY=38"
+       alt="header image"
+       style="pointer-events: none;"
+  />
+</p>
+
+
+
+
 # 👋 Hey there!
 
 I see you were curious about my work — welcome to my GitHub!  
@@ -6,15 +17,17 @@ I'm **Janhavi Naidu**, a **3rd-year Computer Science (AIML) student at RCOEM** w
 ---
 
 ## 🎓 About Me
-- 📍 Nagpur, India  
-- 👩‍💻 Interested in **AI, ML, Full-Stack Web Apps, and SaaS Platforms**
-- 🚀 Currently interning at **Vruksh Ecosystem Foundation** as a **Data Science & ML Intern**
-- 💼 Previously interned at **TechWalnut Innovations – TBI RCOEM Summer Internship 2025**
-    - Worked with **Convolutional Neural Networks (CNN)**, **Computer Vision**, and **Machine Learning** concepts
-    - Gained hands-on experience in **building full-stack web applications** and integrating AI models into real-world use cases
-- 🎯 Goal: Building scalable AI-powered systems and landing a strong internship opportunity
+- Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Web Application Development**
+- Experienced in working with **Deep Learning (CNNs), Computer Vision, and NLP**
+- Skilled in building **end-to-end applications**, integrating ML models into production-ready web systems
+- Enjoy developing **SaaS products**, automation solutions, and scalable backend services
+- Focused on creating impactful AI-driven solutions and continuously exploring modern technologies
+
 
 ---
+
+![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janhavinaidu&theme=github_dark)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janhavinaidu&theme=github_dark) 
 
 ## 📌 Featured Projects
 
@@ -61,3 +74,7 @@ I'm **Janhavi Naidu**, a **3rd-year Computer Science (AIML) student at RCOEM** w
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavi-naidu-961403290/)
+
+
+
+
