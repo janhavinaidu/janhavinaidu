@@ -1,12 +1,5 @@
 
-<p align="center">
-  <img 
-       src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=260&section=header&text=Hey%20I'm%20Janhavi%20—%20Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38"
-       alt="header image"
-       style="pointer-events: none;"
-  />
-</p>
-
+![git-ezgif com-speed](https://github.com/user-attachments/assets/f2b5210c-df58-41be-a847-271c8a41912c)
 
 
 
