@@ -6,7 +6,7 @@
 # 👋 Hello!
 
 I see you were curious about my work — welcome to my GitHub!  
-I'm **Janhavi Naidu**, a **3rd-year Computer Science (AIML) student at RCOEM** with a **CGPA of 9.1**, passionate about building **AI-automated solutions** and **end-to-end production-ready applications**.
+I'm **Janhavi Naidu**, a **3rd-year Computer Science (AIML) student at RCOEM** with a **CGPA of 9.23**, passionate about building **AI-automated solutions** and **end-to-end production-ready applications**.
 
 ---
 
