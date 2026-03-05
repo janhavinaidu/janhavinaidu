@@ -1,8 +1,3 @@
-
-![git-ezgif com-speed](https://github.com/user-attachments/assets/f2b5210c-df58-41be-a847-271c8a41912c)
-
-
-
 # 👋 Hello!
 
 I see you were curious about my work — welcome to my GitHub!  
