@@ -1,7 +1,7 @@
-# Janhavi Naidu
+# Hey There!👋
 
-3rd-year B.Tech Computer Science (AI/ML) student at RCOEM, Nagpur — CGPA 9.23  
-Building AI-powered tools, distributed systems, and agentic pipelines that solve real problems.
+
+I'm a 3rd-year CS (AI/ML) student at RCOEM with a CGPA of 9.23 who spends a lot of time building AI tools, agentic systems, and backends that actually work in production. Take a look around!
 
 ---
 
